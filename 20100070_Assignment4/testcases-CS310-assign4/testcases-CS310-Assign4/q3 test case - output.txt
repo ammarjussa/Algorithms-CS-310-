@@ -1,0 +1,4 @@
+POSSIBLE
+S1: 14 19 9 5 4 sum = 51
+S2: 8 6 13 7 sum = 34
+Difference: 51- 34 = 17

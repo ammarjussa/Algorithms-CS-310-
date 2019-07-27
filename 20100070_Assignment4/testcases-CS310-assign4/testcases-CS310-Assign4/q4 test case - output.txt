@@ -1,0 +1,2 @@
+VALID
+S1quat S2qua S1er S2ran S1n S2tin S1ary S2e
